@@ -58,4 +58,18 @@ p {
 	margin-top: 1em;
 }
 
+.btn-default {
+	color: #FFF;
+	background-color: #D2527F
+	border-color: #B4215D;
+}
+
+.btn-default:hover {
+	background-color: #C53A6D;
+	color: #FFF;
+}
+
+.btns {
+	padding-top; 5em;
+}
 .
